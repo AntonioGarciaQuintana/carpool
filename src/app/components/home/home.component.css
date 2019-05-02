@@ -1,0 +1,9 @@
+.background-image {
+    background-image: url("/assets/images/routes2.png");
+    background-color: #cccccc;
+    ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}

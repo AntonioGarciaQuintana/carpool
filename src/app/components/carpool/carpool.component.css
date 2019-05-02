@@ -1,0 +1,6 @@
+.item-hidden {
+    visibility: hidden;
+}
+.item-show {
+    visibility: visible;
+}
